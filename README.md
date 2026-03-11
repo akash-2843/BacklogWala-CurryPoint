@@ -9,7 +9,7 @@ This project demonstrates front-end development concepts using HTML, CSS, and Ja
 ---
 
 ## 🚀 Live Demo
-https://yourusername.github.io/currypoint-website
+https://backlogwalacurrypoint.netlify.app
 
 ---
 
